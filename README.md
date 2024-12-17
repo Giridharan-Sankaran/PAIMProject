@@ -37,4 +37,4 @@ This project implements a comprehensive testing framework for the PetStore Swagg
 * Dockerized test environment
 
 ## Contribution
-For any improvements or issues, please open a pull request or issue in this repository
+For any improvements or issues, please open a pull request or issue in this repository.
